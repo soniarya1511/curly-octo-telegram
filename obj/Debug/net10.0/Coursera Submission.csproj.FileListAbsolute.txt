@@ -1,0 +1,33 @@
+E:\Coursera Submission\bin\Debug\net10.0\appsettings.Development.json
+E:\Coursera Submission\bin\Debug\net10.0\appsettings.json
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.staticwebassets.endpoints.json
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.exe
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.deps.json
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.runtimeconfig.json
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.dll
+E:\Coursera Submission\bin\Debug\net10.0\Coursera Submission.pdb
+E:\Coursera Submission\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Coursera Submission\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.csproj.AssemblyReference.cache
+E:\Coursera Submission\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.AssemblyInfoInputs.cache
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.AssemblyInfo.cs
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.csproj.CoreCompileInputs.cache
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.MvcApplicationPartsAssemblyInfo.cs
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.MvcApplicationPartsAssemblyInfo.cache
+E:\Coursera Submission\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Coursera Submission\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Coursera Submission\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Coursera Submission\obj\Debug\net10.0\scopedcss\bundle\Coursera Submission.styles.css
+E:\Coursera Submission\obj\Debug\net10.0\staticwebassets.build.json
+E:\Coursera Submission\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Coursera Submission\obj\Debug\net10.0\staticwebassets.development.json
+E:\Coursera Submission\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Coursera Submission\obj\Debug\net10.0\swae.build.ex.cache
+E:\Coursera Submission\obj\Debug\net10.0\Coursera.96019142.Up2Date
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.dll
+E:\Coursera Submission\obj\Debug\net10.0\refint\Coursera Submission.dll
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.pdb
+E:\Coursera Submission\obj\Debug\net10.0\Coursera Submission.genruntimeconfig.cache
+E:\Coursera Submission\obj\Debug\net10.0\ref\Coursera Submission.dll

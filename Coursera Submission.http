@@ -1,0 +1,6 @@
+@Coursera_Submission_HostAddress = http://localhost:5216
+
+GET {{Coursera_Submission_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
